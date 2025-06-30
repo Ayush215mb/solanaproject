@@ -3185,7 +3185,9 @@ name = "solanaproj"
 version = "0.1.0"
 dependencies = [
  "axum",
+ "bs58",
  "serde",
+ "serde_json",
  "solana-sdk",
  "tokio",
 ]
